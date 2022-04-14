@@ -1,0 +1,30 @@
+
+body{
+    background-color: rgba(253, 220, 240, 0.72);
+}
+h1{
+    font-family:cursive
+}
+
+li{
+    padding-bottom:10px
+}
+
+.intro{
+    font-family: 'Open Sans', sans-serif;
+
+}
+.nopaddingSpace{
+    padding-bottom: 20px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+ .unbold{
+     font-weight: normal;
+ }

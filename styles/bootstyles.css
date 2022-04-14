@@ -1,0 +1,25 @@
+body{
+    background-image:url(https://wallpaperbat.com/img/510190-download-wallpaper-2560x1440-clouds-sky-porous-orange-widescreen-169-hd-backgr-in-2020-aesthetic-desktop-wallpaper-aesthetic-pastel-wallpaper-desktop-wallpaper-art.jpg) ;
+    resize: both;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(57, 57, 250);
+    text-align: center;
+}
+
+.headCenter{ 
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.TabLeft{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+a{
+    color: rgb(167, 15, 84);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+
